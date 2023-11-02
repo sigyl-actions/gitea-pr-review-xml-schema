@@ -36750,9 +36750,9 @@ async function run() {
               str1,
               str2
             }) => ({
-              body: `${str1} ----> ${str2}`,
-              old_position: line,
-              new_position: 0,
+              body: `${str1.replaceAll('\n', '')} ----> ${str2.replaceAll('\n', '')}`,
+              new_position: line,
+              old_position: 0,
               path: filePath,
             })
           )
