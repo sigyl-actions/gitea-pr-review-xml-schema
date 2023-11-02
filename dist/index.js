@@ -36733,6 +36733,31 @@ async function run() {
     ).split("/");
 
     const errors = JSON.parse(core.getInput('errors'));
+    const comments = errors
+      .slice(0,1)
+      .flatMap(
+        ({
+          filePath,
+          result,
+        }) => result
+          .filter(
+            (result) => result !== true,
+          )
+          .slice(0, 10)
+          .map(
+            ({
+              line,
+              str1,
+              str2
+            }) => ({
+              body: `${str1} ----> ${str2}`,
+              old_position: line,
+              new_position: 0,
+              path: filePath,
+            })
+          )
+      )
+    console.log(JSON.stringify(comments, null, 2))
     await client
       .repository
       .repoCreatePullReview({
@@ -36741,30 +36766,7 @@ async function run() {
         index: core.getInput('id') || process.argv[5],
         body: {
           body: core.getInput('body'),
-          comments: errors
-            .slice(0,1)
-            .flatMap(
-              ({
-                filePath,
-                result,
-              }) => result
-                .filter(
-                  (result) => result !== true,
-                )
-                .slice(0, 10)
-                .map(
-                  ({
-                    line,
-                    str1,
-                    str2
-                  }) => ({
-                    body: `${str1} ----> ${str2}`,
-                    old_position: line,
-                    new_position: 0,
-                    path: filePath,
-                  })
-                )
-            ),
+          comments,
           commit_id: core.getInput('commit') || github?.context?.payload?.sha,
           event: core.getInput('event')
         },
