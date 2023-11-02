@@ -12,6 +12,8 @@ inputs:
     description: SHA of the commit
   errors:
     description: errors
+  body:
+    description: body of review
   token:
     description: 'The gitea token or personal access token'
     required: false

@@ -29,7 +29,7 @@ async function run() {
         repo,
         index: core.getInput('id') || process.argv[5],
         body: {
-          body: 'failed',
+          body: core.getInput('body'),
           comments: errors
             .flatMap(
               ({
