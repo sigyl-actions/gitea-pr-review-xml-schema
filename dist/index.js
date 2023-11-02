@@ -36742,11 +36742,16 @@ async function run() {
         body: {
           body: core.getInput('body'),
           comments: errors
+            .slice(0,1)
             .flatMap(
               ({
                 filePath,
                 result,
               }) => result
+                .filter(
+                  (result) => result !== true,
+                )
+                .slice(0, 10)
                 .map(
                   ({
                     line,
