@@ -37487,7 +37487,6 @@ async function run() {
       || github?.context?.payload?.repository?.full_name
       || process.argv[4]
     ).split("/");
-    console.log(errors)
     const errors = JSON.parse(core.getInput('errors'));
     const comments = errors
       .slice(0,1)
