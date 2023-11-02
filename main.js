@@ -41,7 +41,7 @@ async function run() {
               str2,
               code,
             }) => ({
-              body: `${parseErrors.codeMap.get(code)} ${str1.replaceAll('\n', '').trim()} ----> ${str2.replaceAll('\n', '').trim()}`,
+              body: `${parseErrors.codeMap.get(code)} ${str1 && str1.replaceAll('\n', '').trim()} ----> ${str2 && str2.replaceAll('\n', '').trim()}`,
               new_position: line,
               old_position: 0,
               path: filePath,
