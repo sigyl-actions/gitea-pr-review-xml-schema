@@ -1,0 +1,3227 @@
+[
+  {
+    "result": [
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 7,
+        "str1": "30",
+        "str2": "20"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 7,
+        "str1": "\n AREA1444\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 12,
+        "str1": "\n YES_NO\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 19,
+        "str1": "\n YES\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 27,
+        "str1": "\n NO\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 36,
+        "str1": "\n PHASE_FAILURES\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 44,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1834,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 47,
+        "str1": "\n 13\n ",
+        "str2": "3"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 51,
+        "str1": "\n COUNT_DOWN\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 59,
+        "str1": "\n COUNT_UP\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 68,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 75,
+        "str1": "\n RETENTIVE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 83,
+        "str1": "\n RESET\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 91,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 100,
+        "str1": "\n REPORTING_CONTEXTS\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 107,
+        "str1": "\n NULL\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 127,
+        "str1": "\n OPC\n ",
+        "str2": "'OPC', 'CIP', 'FTD'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 145,
+        "str1": "\n 1000\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 148,
+        "str1": "\n 60000\n "
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 247,
+        "str1": "45",
+        "str2": "32"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 256,
+        "str1": "\n 1q\n "
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 266,
+        "str1": "44",
+        "str2": "32"
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 280,
+        "str1": "146",
+        "str2": "128"
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 285,
+        "str1": "47",
+        "str2": "32"
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 304,
+        "str1": "44",
+        "str2": "32"
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 323,
+        "str1": "52",
+        "str2": "32"
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 342,
+        "str1": "58",
+        "str2": "32"
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 363,
+        "str1": "52",
+        "str2": "32"
+      },
+      {
+        "domain": 17,
+        "code": 1832,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 382,
+        "str1": "58",
+        "str2": "32"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 411,
+        "str1": "\n PARMTR01\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 414,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 424,
+        "str1": "\n PARMTR02\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 427,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 437,
+        "str1": "\n PARMTR03\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 440,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 450,
+        "str1": "\n REPORT01\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 453,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 463,
+        "str1": "\n REPORT02\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 466,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 476,
+        "str1": "\n REQUST01\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 479,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 489,
+        "str1": "\n REQUST02\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 492,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 502,
+        "str1": "\n PCELL_CLS1\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 510,
+        "str1": "\n UNIT_CLS1\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 518,
+        "str1": "\n $TIMER_DN_SECOND\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 527,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 550,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 553,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 559,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 563,
+        "str1": "\n COUNT_DOWN\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 566,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 574,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 577,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 583,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 587,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 590,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 598,
+        "str1": "\n 3\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 601,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 607,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 624,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 630,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 634,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 640,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 646,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 658,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 661,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 664,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 668,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 676,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 682,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 686,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 692,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 698,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 704,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 714,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 717,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 720,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 724,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 732,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 738,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 742,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 748,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 754,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 760,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 768,
+        "str1": "\n $TIMER_DN_MINUTE\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 777,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 800,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 803,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 809,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 813,
+        "str1": "\n COUNT_DOWN\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 816,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 824,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 827,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 833,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 837,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 840,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 848,
+        "str1": "\n 3\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 851,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 857,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 874,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 880,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 884,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 890,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 896,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 908,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 911,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 914,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 918,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 926,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 932,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 936,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 942,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 948,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 954,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 964,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 967,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 970,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 974,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 982,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 988,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 992,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 998,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1004,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1010,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1018,
+        "str1": "\n $TIMER_DN_HOUR\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1027,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1050,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1053,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1059,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1063,
+        "str1": "\n COUNT_DOWN\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1066,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1074,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1077,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1083,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1087,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1090,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1098,
+        "str1": "\n 3\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1101,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1107,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1124,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1130,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1134,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1140,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1146,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1158,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1161,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1164,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1168,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1176,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1182,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1186,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1192,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1198,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1204,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1214,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1217,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1220,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1224,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1232,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1238,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1242,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1248,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1254,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1260,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1268,
+        "str1": "\n $TIMER_DN_DAY\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1277,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1300,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1303,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1309,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1313,
+        "str1": "\n COUNT_DOWN\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1316,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1324,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1327,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1333,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1337,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1340,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1348,
+        "str1": "\n 3\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1351,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1357,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1374,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1380,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1384,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1390,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1396,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1408,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1411,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1414,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1418,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1426,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1432,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1436,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1442,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1448,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1454,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1464,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1467,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1470,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1474,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1482,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1488,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1492,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1498,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1504,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1510,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1518,
+        "str1": "\n $TIMER_UP_SECOND\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1527,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1550,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1553,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1559,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1563,
+        "str1": "\n COUNT_UP\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1566,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1574,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1577,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1583,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1587,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1590,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1598,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1601,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1604,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1608,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1616,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1622,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1626,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1632,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1638,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1644,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1652,
+        "str1": "\n $TIMER_UP_MINUTE\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1661,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1684,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1687,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1693,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1697,
+        "str1": "\n COUNT_UP\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1700,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1708,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1711,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1717,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1721,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1724,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1732,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1735,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1738,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1742,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1750,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1756,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1760,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1766,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1772,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1778,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1786,
+        "str1": "\n $TIMER_UP_HOUR\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1795,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1818,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1821,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1827,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1831,
+        "str1": "\n COUNT_UP\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1834,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1842,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1845,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1851,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1855,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1858,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1866,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1869,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1872,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1876,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1884,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1890,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1894,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1900,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1906,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1912,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1920,
+        "str1": "\n $TIMER_UP_DAY\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1929,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1952,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1955,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1961,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1965,
+        "str1": "\n COUNT_UP\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1968,
+        "str1": "\n $TIMER_TYPE\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1976,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1979,
+        "str1": "\n Enumeration\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1985,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1989,
+        "str1": "\n CONTINUE\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 1992,
+        "str1": "\n $HOLD_BEHAVIOR\n ",
+        "str2":"[A-Z][0-9A-Z_](\.CONTROL_STRATEGY)?|$TIMER_TYPE|$HOLD_BEHAVIOR"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2000,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2003,
+        "str1": "\n Real\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2006,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2010,
+        "str1": "\n 65535\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2018,
+        "str1": "\n No_Limits\n ",
+        "str2": "'No_Limits', 'High_Low', 'HighHigh_LowLow', 'HighHighHigh_LowLowLow'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2024,
+        "str1": "\n None\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2028,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2034,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2040,
+        "str1": "\n SignatureTemplate\n ",
+        "str2": "'None', 'SignatureTemplate', 'Not Allowed'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2046,
+        "str1": "\n Absolute\n ",
+        "str2": "'Absolute', 'Percent', 'Relative'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2054,
+        "str1": "\n $NULL\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2063,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2084,
+        "str1": "\n PHASE1\n ",
+        "str2": "[A-Z][0-9A-Z_]|$TIMER_DN_SECOND|$TIMER_DN_MINUTE|$TIMER_DN_HOUR|$TIMER_DN_DAY|$TIMER_UP_SECOND|$TIMER_UP_MINUTE|$TIMER_UP_HOUR|$TIMER_UP_DAY|$NULL"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2093,
+        "str1": "\n Standard\n ",
+        "str2": "'Standard', 'ControlStrategy', 'Material', 'ControlStrategyMaterial'"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2114,
+        "str1": "\n PROCESS_CELL1\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2117,
+        "str1": "\n PCELL_CLS1\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2120,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2123,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2126,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2140,
+        "str1": "\n UNIT1\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2145,
+        "str1": "\n UNIT1\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2148,
+        "str1": "\n UNIT_CLS1\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2151,
+        "str1": "\n 2\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2154,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2158,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2172,
+        "str1": "\n PHASE11\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2177,
+        "str1": "\n PHASE11\n ",
+        "str2": "[A-Z][0-9A-Z_]"
+      },
+      {
+        "domain": 17,
+        "code": 1839,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2180,
+        "str1": "\n PHASE1\n ",
+        "str2": "[A-Z][0-9A-Z_]*"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2183,
+        "str1": "\n TAGPHASE\n ",
+        "str2": "'TAGPHASE', 'CIPPHASE'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2186,
+        "str1": "\n 3\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2189,
+        "str1": "\n 1\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2203,
+        "str1": "\n 0\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2211,
+        "str1": "\n false\n ",
+        "str2": "'true', 'TRUE', 'false', 'FALSE'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2214,
+        "str1": "\n false\n ",
+        "str2": "'true', 'TRUE', 'false', 'FALSE'"
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2217,
+        "str1": "\n 1000\n "
+      },
+      {
+        "domain": 17,
+        "code": 1824,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2220,
+        "str1": "\n 60000\n "
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2227,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2247,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2267,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2287,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2307,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2327,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2347,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2367,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2387,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2407,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2427,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      },
+      {
+        "domain": 17,
+        "code": 1840,
+        "level": 2,
+        "column": 0,
+        "file": "",
+        "line": 2447,
+        "str1": "\n Integer\n ",
+        "str2": "'Real', 'Integer', 'String', 'Enumeration'"
+      }
+    ],
+    "filePath": "afile.axml"
+  }
+]

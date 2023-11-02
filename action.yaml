@@ -1,0 +1,20 @@
+---
+name: gitea-pr-review-xml-schema
+description: >-
+  pot a review comment
+branding:
+  icon: package
+  color: green
+inputs:
+  id:
+    description: id of the pr
+  commit:
+    description: SHA of the commit
+  errors:
+    description: errors
+  token:
+    description: 'The gitea token or personal access token'
+    required: false
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
